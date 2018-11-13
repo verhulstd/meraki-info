@@ -22,5 +22,8 @@
     "node-sass": "^4.10.0",
     "stylelint": "^9.6.0",
     "stylelint-config-sass-guidelines": "^5.2.0"
+  },
+  "dependencies": {
+    "mustard-ui": "0.0.8"
   }
 }
